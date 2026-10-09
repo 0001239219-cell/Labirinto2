@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 1c129a86c12e8624e86a7d86fc1fb8ee
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal 04
+    second: {fileID: 2100000, guid: a85236e9b9f5f6d49b0347473a53b0ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Procedural stone
+    second: {fileID: 2100000, guid: b0b6a2796b9450c4a90563b93f7d2784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roap.002
+    second: {fileID: 2100000, guid: df4a053ef490a3044ab04885b952866e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 7 roof beams
+    second: {fileID: 2100000, guid: f8165978251541346934e0439a720689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Beams
+    second: {fileID: 2100000, guid: c0e5552db66fad74b8b9bfed7e6c576c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Beams.001
+    second: {fileID: 2100000, guid: aea31c49e911be14f9542b19e80ac7da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .001
+    second: {fileID: 2100000, guid: 7f46f466b4484b341a3f4bb01ccc773e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .002
+    second: {fileID: 2100000, guid: 714e47d9decafae4cb001fcb52e8886e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .003
+    second: {fileID: 2100000, guid: 02ee560541ea5874eb6b2a8574ddc586, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .004
+    second: {fileID: 2100000, guid: 814c31d6a321ca940aed95b720421ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .005
+    second: {fileID: 2100000, guid: 6f115cc41a7f284428c05a21966baf1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .006
+    second: {fileID: 2100000, guid: 766a4869d0508e747847bafcc8433690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .007
+    second: {fileID: 2100000, guid: 7e835fb0c1a1236458989dfc4673dd03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .008
+    second: {fileID: 2100000, guid: d98574447393d744095d94aae3491995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .009
+    second: {fileID: 2100000, guid: 1c437c33b716116468e02a6914b57ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .010
+    second: {fileID: 2100000, guid: f073c27290c672e4c9b9e9caa50c1911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .011
+    second: {fileID: 2100000, guid: d5f67473634cd214796b6fa6b7533308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .012
+    second: {fileID: 2100000, guid: 4ead85ea783b3814cb6c0031e6ac682a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof .013
+    second: {fileID: 2100000, guid: 65896a7bfd7ac4a41b8379ff4175733d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof support
+    second: {fileID: 2100000, guid: 4ce6598953a08ee41b4eee1ec62a8919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof support.001
+    second: {fileID: 2100000, guid: 9dc4272c95601814eb955a961dd24209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Roof_
+    second: {fileID: 2100000, guid: 46f251fad8bcc964b830e063f04e9d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 Stone Pillars
+    second: {fileID: 2100000, guid: e09ebcd7c9b8a6c4b905c1604c44cb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9 wedges
+    second: {fileID: 2100000, guid: bb5f8b77f9c47f84cb82f74e276bb7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torii 9Roof support structure
+    second: {fileID: 2100000, guid: a78585aae12aebf4db49046cfb6f03ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Weathered Gray Driftwood.005
+    second: {fileID: 2100000, guid: a2f866256106b8a4eb5b6bc36c5bff1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_iron_gate
+    second: {fileID: 2100000, guid: 2dc6de349f0995c4a992260b9efea402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torri-wood-001
+    second: {fileID: 2100000, guid: d5bac3fd55362b94680ca96d73bad350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torri-wood-002
+    second: {fileID: 2100000, guid: 09f86a5a94fc9e94e8218a6a8174c698, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torri-wood-003
+    second: {fileID: 2100000, guid: 37b3293c8ff1cb3499a3fae0e6de1273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zen_shrine_lantern_holder_001
+    second: {fileID: 2100000, guid: b0f97285a8a19a049bd8592dbb723c20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zen_shrine_lantern_paper_001
+    second: {fileID: 2100000, guid: c37d1c217404ae94f96b9d0c59219c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zen_shrine_roof_stone_001
+    second: {fileID: 2100000, guid: e672bfa0db3cbd042affbb2fe0840740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zen_shrine_roof_stone_001.001
+    second: {fileID: 2100000, guid: cf0ce612c2840994b8fb885f2df8d5ac, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: large_iron_gate_diff_8k
+    second: {fileID: 2800000, guid: 89d288cc45183cc43928b802078a4a5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: large_iron_gate_metal_8k
+    second: {fileID: 2800000, guid: e49206072df6fff42bc2e33dbc48dfbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: large_iron_gate_nor_gl_8k
+    second: {fileID: 2800000, guid: 51dd57cb87d7db94fad9aee4bc114ed7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: large_iron_gate_rough_8k
+    second: {fileID: 2800000, guid: 08caa7003e30a9f4a85ddaefb64547be, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
